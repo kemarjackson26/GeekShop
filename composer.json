@@ -1,0 +1,8 @@
+{
+    "repositories": {
+        "commerce_base": {
+            "type": "vcs",
+            "url": "https://github.com/drupalcommerce/commerce_base"
+        }
+    }
+}
